@@ -3,8 +3,9 @@ name: brand-stewardship-audit
 description: Evaluate decisions and investments against brand strength principles to prevent dilution and ensure consistency across all touchpoints.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3503
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - brand-stewardship-audit
 - structure
